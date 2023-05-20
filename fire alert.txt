@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3OzspMbh4"
-#define BLYNK_TEMPLATE_NAME "FIRE ALERT NOTIFICATION"
-#define BLYNK_AUTH_TOKEN "p5p_KfxGdG_V1DGZgiCaqns7lQEALmVL"
+#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_TEMPLATE_NAME ""
+#define BLYNK_AUTH_TOKEN ""
 
 
 #define BLYNK_PRINT Serial
@@ -10,8 +10,8 @@
  
 char auth[] = BLYNK_AUTH_TOKEN;
 
-char ssid[] = "ROHETH S";  // type your wifi name
-char pass[] = "roheth007";  // type your wifi password
+char ssid[] = "";  // type your wifi name
+char pass[] = "";  // type your wifi password
  
 
 BlynkTimer timer;
